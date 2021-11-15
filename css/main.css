@@ -303,3 +303,7 @@ a {
   color: antiquewhite;
   display: flex;
 }
+
+.bottompad{
+  padding-bottom: 50px;
+}
